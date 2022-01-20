@@ -14,3 +14,7 @@ body {
 h5 {
     margin-top: 30px;
 }
+
+#container-info {
+    display: none;
+}
